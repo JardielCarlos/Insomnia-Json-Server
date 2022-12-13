@@ -4,13 +4,22 @@
       "nome": "Jardiel",
       "Email": "jardiel.carlosm@hotmail.com",
       "Nascimento": "09/01/2004",
+      "CEP": "58200-000",
       "id": 0
     },
     {
       "nome": "João da Silva",
       "Email": "joaodasilva@gmail.com",
-      "Nascimento": "10/06/2000",
+      "Nascimento": "21/10/2000",
+      "CEP": "258963-023",
       "id": 1
+    },
+    {
+      "nome": "Lucas",
+      "Email": "lucas@gmail.com",
+      "Telefone": "(83) 98837-9085",
+      "CEP": "25897-000",
+      "id": 2
     }
   ],
   "produtos": [
