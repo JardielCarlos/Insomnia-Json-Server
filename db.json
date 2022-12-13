@@ -1,0 +1,52 @@
+{
+  "Clients": [
+    {
+      "nome": "Jardiel",
+      "Email": "jardiel.carlosm@hotmail.com",
+      "Nascimento": "09/01/2004",
+      "id": 0
+    },
+    {
+      "nome": "João da Silva",
+      "Email": "joaodasilva@gmail.com",
+      "Nascimento": "10/06/2000",
+      "id": 1
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Samsung Galaxy S22",
+      "preco": 5000,
+      "id": 0
+    },
+    {
+      "nome": "Televisão 60 polegadas LG",
+      "preco": 4500,
+      "id": 1
+    }
+  ],
+  "fornecedores": [
+    {
+      "nome": "Amazon",
+      "localidade": "São Paulo",
+      "id": 0
+    },
+    {
+      "nome": "Americanas",
+      "localidade": "Rio de Janeiro",
+      "id": 1
+    }
+  ],
+  "entregadores": [
+    {
+      "nome": "Luiz",
+      "veiculo": "Honda cg 160",
+      "id": 0
+    },
+    {
+      "nome": "Pedro",
+      "veiculo": "Fiat Strada 2010",
+      "id": 1
+    }
+  ]
+}
